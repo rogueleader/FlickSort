@@ -8,7 +8,7 @@ supported OS: windows ,linux
 current version:0.3
 
 
-
+Copyrighted under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license
 
 
 Original idea by Shalabh Tewari .
