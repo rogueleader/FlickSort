@@ -3,12 +3,12 @@ based on their IMDB rating.
 
 language: Python 3.3.1
 
-supported OS: windows ,linux
+supported OS: windows , linux
 
 current version:0.3
 
 
-Copyrighted under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license
+Copyright under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license
 
 
-Original idea by Shalabh Tewari .
+Original idea by Shalabh Tewari
